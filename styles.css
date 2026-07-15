@@ -1,0 +1,60 @@
+body {
+  background-color: #f5f0ea;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  text-align: center;
+  margin: 0;
+}
+
+/* Email header */
+.email {
+  padding: 20px;
+  font-weight: bold;
+}
+
+/* Page title */
+.page-title {
+  color: #c21807; /* cherry red */
+  font-size: 48px;
+  margin-top: 20px;
+}
+
+/* About text */
+.about-text {
+  max-width: 700px;
+  margin: 40px auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Homepage name */
+.name {
+  color: #0047AB; /* cobalt blue */
+  font-size: 60px;
+}
+
+/* Table of contents links */
+.toc a {
+  display: block;
+  margin: 15px;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+/* Color helpers */
+.red {
+  color: #c21807;
+}
+
+.blue {
+  color: #0047AB;
+}
+
+/* Projects */
+.project {
+  margin: 30px;
+}
+
+.project img {
+  width: 400px;
+}
